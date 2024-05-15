@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dgyosh
-- 👀 I’m interested in paragliding and crypto 
-- 🌱 I’m currently learning PhD Statistic and Econometric 
-- 💞️ I’m looking to collaborate on creating platform for tournaments, website builder and more
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning PhD Statistics and Econometric 
+- 💞️ I’m looking to collaborate on creating a platform for tournaments, website builder and more
 - 📫 How to reach me by d.gyoshev@gmail.com,
 -  https://twitter.com/cryptominingAF         
 
