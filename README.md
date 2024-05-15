@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning PhD Statistics and Econometric 
 - 💞️ I’m looking to collaborate on creating a platform for tournaments, website builder and more
 - 📫 How to reach me by d.gyoshev@gmail.com,
--  https://twitter.com/cryptominingAF         
 
 <!---
 Dgyosh/Dgyosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
